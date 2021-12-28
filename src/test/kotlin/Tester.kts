@@ -1,0 +1,3 @@
+import bar.foo
+
+foo()
